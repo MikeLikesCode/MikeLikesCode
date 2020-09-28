@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Guerrero</h1>
 <h3 align="center">A passionate Frontend Developer from New York</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikelikescode" alt="mikelikescode" /> </p>
-
 - 🌱 I’m currently learning **React and Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://mikelikescode.com](https://mikelikescode.com)
