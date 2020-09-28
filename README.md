@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Guerrero</h1>
 <h3 align="center">A passionate Frontend Developer from New York</h3>
-<p>Socials:</p> <a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mikelikescode" height="30" width="40" />MikeLikesCode#1337</a>
+<p>Socials:</p> <p><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mikelikescode" height="30" width="40" />MikeLikesCode#1337</p>
 
 - 🌱 I’m currently learning **React and Vue.js**
 
