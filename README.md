@@ -20,6 +20,7 @@
 <a href="https://dev.to/mikelikescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mikelikescode" height="30" width="40" /></a>
 <a href="https://twitter.com/mikelikescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mikelikescode" height="30" width="40" /></a>
 <a href="https://instagram.com/mikelikescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mikelikescode" height="30" width="40" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mikelikescode" height="30" width="40" />MikeLikesCode#1337</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
