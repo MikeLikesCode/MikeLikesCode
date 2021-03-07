@@ -8,7 +8,7 @@
 
 - 📝 I regulary write articles on [https://mikelikescode.com](https://mikelikescode.com)
 
-- 💬 Ask me about **what I'm doing in college I guess**
+- 💬 Ask me about **what language I'm currently learning**
 
 - 📫 How to reach me **maikurusama@gmail.com**
 
