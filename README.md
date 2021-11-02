@@ -20,6 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikelikescode&layout=compact" alt="mikelikescode" /></p>
 </div>
 
-<div align="center" style="display: inline_block"><br>
 ![Snake animation](https://github.com/mikelikescode/mikelikescode/blob/output/github-contribution-grid-snake.gif) 
-</div>
