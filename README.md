@@ -1,8 +1,11 @@
 <div align="center" style="display: inline_block"><br>
 <h1 align="center">Hi 👋, I'm Michael Guerrero</h1>
 <h3 align="center">A passionate Fullstack Developer from New York</h3>
-<p>Socials:</p> <p><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mikelikescode" height="30" width="40" />MikeLikesCode#1337</p>
 </div>
+
+<div align="center"> 
+  <a href = "mailto:mguerrero.codes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mikelikescode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center" style="display: inline_block"><br>
 🌱 I’m currently learning **React and Redux**
