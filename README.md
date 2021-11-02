@@ -8,11 +8,8 @@
   <a href="https://www.linkedin.com/in/mikelikescode" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center" style="display: inline_block"><br>
-🌱 I’m currently learning **React and Redux**
   
 👨‍💻 All of my projects are available at [https://mikelikescode.com](https://mikelikescode.com)
-
-📝 I regulary write articles on [https://mikelikescode.com](https://mikelikescode.com)
 
 💬 Ask me about **what language I'm currently learning**
 
