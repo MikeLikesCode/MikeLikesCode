@@ -4,6 +4,7 @@
 <p>Socials:</p> <p><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mikelikescode" height="30" width="40" />MikeLikesCode#1337</p>
 </div>
 
+<div align="center" style="display: inline_block"><br>
 - 🌱 I’m currently learning **React and Redux**
 
 - 👨‍💻 All of my projects are available at [https://mikelikescode.com](https://mikelikescode.com)
@@ -13,6 +14,7 @@
 - 💬 Ask me about **what language I'm currently learning**
 
 - 📫 How to reach me **maikurusama@gmail.com**
+</div>
 
 <div align="center" style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
