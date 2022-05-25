@@ -21,3 +21,5 @@
 </div>
 
 ![Snake animation](https://github.com/mikelikescode/mikelikescode/blob/output/github-contribution-grid-snake.gif) 
+![Discord Banner](https://discord.c99.nl/widget/theme-1/142067974222643201.png)  
+
