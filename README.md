@@ -22,5 +22,5 @@
 
 <img src="https://raw.githubusercontent.com/MikeLikesCode/MikeLikesCode/output/github-contribution-grid-snake.svg"/>
   
-![Discord Banner]([https://discord.c99.nl/widget/theme-1/142067974222643201.png](https://discord.c99.nl/widget/theme-1/142067974222643201.png))  
+![Discord Banner](https://discord.c99.nl/widget/theme-1/142067974222643201.png)
 
